@@ -1,0 +1,1 @@
+# Views for server-side rendering (e.g., Nunjucks/EJS)
